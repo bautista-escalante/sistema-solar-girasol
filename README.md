@@ -39,14 +39,12 @@ El sistema debería seguir el siguiente comportamiento y maximizar la captación
 
 Siguiendo las mismas conexiones de la simulación, llevé el proyecto a la realidad y logró cumplir con las expectativas
 
-
-
-
+🔗 **Video en funcionamiento:**
+[Ver en youtube](https://youtube.com/shorts/Zm8zF8PiR1Q?feature=share)
 
 Para su construcción, diseñé e imprimí un soporte específicamente para el panel solar y el servomotor, asegurando estabilidad y precisión en el seguimiento del sol. 
 
-![20250212_175805](https://github.com/user-attachments/assets/a1da197e-473e-4c3b-befb-3858cd07b150)
-
-🔗 **enlace a el modelo stl: **
+🔗 **Enlace al modelo STL:**
 [Ver en cults3d](https://cults3d.com/es/modelo-3d/artilugios/soporte-panel-solar-chico-arduino-bautec)
+
 ---
