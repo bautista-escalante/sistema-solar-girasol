@@ -15,8 +15,8 @@ El rendimiento óptimo se mantiene entre las **10:00 hs y las 15:00 hs**.
 Lo primero fue realizar simulaciones del funcionamiento. Para ello, modelé:  
 - Un **panel solar de 21V** como fuente de energía.  
 - Las **variaciones diarias del sol** mediante un potenciómetro.  
+![sistemaGirasol](https://github.com/user-attachments/assets/0d69fb21-9c91-47fa-a9c1-4477b463e9cf)
 
-![Simulación del sistema](https://github.com/user-attachments/assets/0bc4a0e4-ed44-41d1-b382-e7d16b262cda)  
 
 🔗 **Enlace a la simulación:**  
 [Ver en Tinkercad](https://www.tinkercad.com/things/4f6SgqQz4ty-sistema-solar-girasol)  
@@ -35,10 +35,18 @@ El sistema debería seguir el siguiente comportamiento y maximizar la captación
 
 ---
 
-## 🚀 Posibles mejoras  
-✅ Evaluar el rendimiento en función de **amperios** en lugar de solo **voltios**.  
-✅ Mejorar la simulación con sensores reales de luz para ajustar en tiempo real.  
+## ⚡ Aplicación Práctica del Proyecto
 
+Siguiendo las mismas conexiones de la simulación, llevé el proyecto a la realidad y logró cumplir con las expectativas
+
+
+
+
+
+Para su construcción, diseñé e imprimí un soporte específicamente para el panel solar y el servomotor, asegurando estabilidad y precisión en el seguimiento del sol. 
+
+![20250212_175805](https://github.com/user-attachments/assets/a1da197e-473e-4c3b-befb-3858cd07b150)
+
+🔗 **enlace a el modelo stl: **
+[Ver en cults3d](https://cults3d.com/es/modelo-3d/artilugios/soporte-panel-solar-chico-arduino-bautec)
 ---
-
-## 
